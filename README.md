@@ -1,20 +1,76 @@
+# Calculadora
+
+Calculadora web simples com HTML, CSS e JavaScript — projeto de estudos da Alura.
+
 ![Calculadora Básica](./Imagens/Preview.png)
 
-## Introdução
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Este projeto é uma calculadora simples criada com HTML, JavaScript e CSS. Foi desenvolvido como parte do aprendizado dessas tecnologias para a plataforma Alura, com foco especial na interação entre botões usando JavaScript.
+## Sumário
 
-</details>
+- [Sobre](#sobre)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologias)
+- [Como executar](#como-executar)
+- [Estrutura](#estrutura)
+- [Acessibilidade](#acessibilidade)
+- [Licença](#licença)
+- [Autor](#autor)
 
-## Tecnologias Utilizadas
+## Sobre
 
-![S](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+Calculadora com display somente-leitura, botões numéricos e operadores (`+ − x ÷`), além de limpar (`C`), apagar e igual (`=`). Foco em manipulação de eventos e DOM.
 
-## Contato
+## Funcionalidades
 
-- [Email](mailto:yvictorhfl@gmail.com)
+- Operações básicas: soma, subtração, multiplicação, divisão
+- Botão `C` limpa, backspace apaga um dígito
+- Display `readonly` com `aria-label`
+- Ícones sociais no topo (GitHub / LinkedIn)
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript (`script.js`)
+
+## Como executar
+
+```bash
+git clone https://github.com/VictorHFL/Calculadora.git
+cd Calculadora
+# abra index.html no navegador
+```
+
+> [!TIP]
+> Se `Imagens/Preview.png` não carregar, confira o nome da pasta (`Imagens` com I maiúsculo).
+
+## Estrutura
+
+```text
+Calculadora/
+├── index.html
+├── style.css
+├── script.js
+├── Imagens/
+└── README.md
+```
+
+## Acessibilidade
+
+- Botões com `aria-label` ("Ir para o GitHub", "Valor da Calculadora")
+- Contraste e áreas de toque adequadas para uso com teclado e leitor de tela
 
 ## Licença
 
-Este projeto é licenciado sob os termos da [Licença MIT](/LICENSE.txt).
-Leia o arquivo [LICENSE](/LICENSE.txt) para obter mais detalhes sobre as permissões e restrições da Licença MIT.
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
+
+## Autor
+
+**VictorHFL**
+
+- GitHub: [@VictorHFL](https://github.com/VictorHFL)
+- E-mail: yvictorhfl@gmail.com
