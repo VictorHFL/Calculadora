@@ -1,6 +1,6 @@
-# Calculadora
+# 🧮 Calculadora
 
-Calculadora web simples com HTML, CSS e JavaScript — projeto de estudos da Alura.
+Calculadora web simples com HTML, CSS e JavaScript - projeto de estudos da Alura.
 
 ![Calculadora Básica](./Imagens/Preview.png)
 
@@ -9,7 +9,7 @@ Calculadora web simples com HTML, CSS e JavaScript — projeto de estudos da Alu
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Sumário
+## 📑 Sumário
 
 - [Sobre](#sobre)
 - [Funcionalidades](#funcionalidades)
@@ -20,24 +20,24 @@ Calculadora web simples com HTML, CSS e JavaScript — projeto de estudos da Alu
 - [Licença](#licença)
 - [Autor](#autor)
 
-## Sobre
+## 📖 Sobre
 
 Calculadora com display somente-leitura, botões numéricos e operadores (`+ − x ÷`), além de limpar (`C`), apagar e igual (`=`). Foco em manipulação de eventos e DOM.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - Operações básicas: soma, subtração, multiplicação, divisão
 - Botão `C` limpa, backspace apaga um dígito
 - Display `readonly` com `aria-label`
 - Ícones sociais no topo (GitHub / LinkedIn)
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript (`script.js`)
 
-## Como executar
+## 🚀 Como executar
 
 ```bash
 git clone https://github.com/VictorHFL/Calculadora.git
@@ -48,7 +48,7 @@ cd Calculadora
 > [!TIP]
 > Se `Imagens/Preview.png` não carregar, confira o nome da pasta (`Imagens` com I maiúsculo).
 
-## Estrutura
+## 📁 Estrutura
 
 ```text
 Calculadora/
@@ -59,16 +59,16 @@ Calculadora/
 └── README.md
 ```
 
-## Acessibilidade
+## ♿ Acessibilidade
 
 - Botões com `aria-label` ("Ir para o GitHub", "Valor da Calculadora")
 - Contraste e áreas de toque adequadas para uso com teclado e leitor de tela
 
-## Licença
+## 📄 Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## Autor
+## 👤 Autor
 
 **VictorHFL**
 
