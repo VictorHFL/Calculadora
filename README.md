@@ -18,7 +18,6 @@ Calculadora web simples com HTML, CSS e JavaScript - projeto de estudos da Alura
 - [Estrutura](#estrutura)
 - [Acessibilidade](#acessibilidade)
 - [Licença](#licença)
-- [Autor](#autor)
 
 ## 📖 Sobre
 
@@ -68,9 +67,3 @@ Calculadora/
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## 👤 Autor
-
-**VictorHFL**
-
-- GitHub: [@VictorHFL](https://github.com/VictorHFL)
-- E-mail: yvictorhfl@gmail.com
